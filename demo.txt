@@ -1,4 +1,4 @@
-Version II
+Version III
 
 Right now we are working locally on our computer.
 This is what we call the local repository. The Local Repo.
@@ -15,3 +15,21 @@ We will be using GitHub.com
 - git status
 - git add .
 - git commit -m "<message>
+
+
+
+From GitHub when creating a new Repo
+...or create a new repository from command line
+echo "# gitdemoMeetUp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/polch05/gitdemoMeetUp.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/polch05/gitdemoMeetUp.git
+git branch -M main
+git push -u origin main
