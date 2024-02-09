@@ -1,0 +1,17 @@
+Version II
+
+Right now we are working locally on our computer.
+This is what we call the local repository. The Local Repo.
+
+If we want to share our files over the internet, we will need a remote repo.
+
+We will be using GitHub.com
+
+
+- git --version
+- git config --global user.name "username"
+- git config --global user.email "email" (make it your remote repo Username/Email).
+- git init
+- git status
+- git add .
+- git commit -m "<message>
