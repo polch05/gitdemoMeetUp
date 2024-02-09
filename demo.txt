@@ -1,4 +1,8 @@
-Version III
+Version IV
+
+My local branch is now Master
+The remote branch is still Main...
+Do we commit, push this and need a PR or will it merge automatically?
 
 Right now we are working locally on our computer.
 This is what we call the local repository. The Local Repo.
